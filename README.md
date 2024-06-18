@@ -1,6 +1,8 @@
 # Hailey
 For the Writers who need assistance.
 
+## Update 18.6.2024 -- Now that we look at it we had an LLM based assistant wayyy before it was cool xD
+
 ## Installation of prerequisites
 
  ```shell
